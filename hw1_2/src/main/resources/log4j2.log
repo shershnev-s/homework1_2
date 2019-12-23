@@ -1,0 +1,120 @@
+2019-12-15 20:39:55,538 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] 1.63679398E9 5.6397584E7 1.7766944E8
+2019-12-15 20:39:55,544 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] x + y = 1.63679398E95.6397584E7
+2019-12-15 20:39:55,544 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] average sum = 6.2362035E8
+2019-12-15 20:39:55,545 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -43 
+2019-12-15 20:39:55,545 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -221 
+2019-12-15 20:39:55,545 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -63 
+2019-12-15 20:39:55,545 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 216 
+2019-12-15 20:39:55,546 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 91 
+2019-12-15 20:39:55,546 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 215 
+2019-12-15 20:39:55,546 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -104 
+2019-12-15 20:39:55,546 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -268 
+2019-12-15 20:39:55,546 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 97 
+2019-12-15 20:39:55,546 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -124 
+2019-12-15 20:39:55,547 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] minValue value = -268
+2019-12-15 20:39:55,547 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] maxValue value = 216
+2019-12-15 20:39:55,548 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -43 
+2019-12-15 20:39:55,548 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -221 
+2019-12-15 20:39:55,548 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -63 
+2019-12-15 20:39:55,548 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -57888 
+2019-12-15 20:39:55,549 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 91 
+2019-12-15 20:39:55,549 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 215 
+2019-12-15 20:39:55,549 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -104 
+2019-12-15 20:39:55,549 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -268 
+2019-12-15 20:39:55,549 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 97 
+2019-12-15 20:39:55,549 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -124 
+2019-12-15 20:39:55,551 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name0 BMW 3
+2019-12-15 20:39:55,552 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name1 BMW 1
+2019-12-15 20:39:55,552 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name2 RENO 1
+2019-12-15 20:39:55,552 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name3 BMW 2
+2019-12-15 20:39:55,552 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name4 RENO 2
+2019-12-15 20:39:55,553 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name5 RENO 2
+2019-12-15 20:39:55,553 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name6 BMW 2
+2019-12-15 20:39:55,553 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name7 RENO 1
+2019-12-15 20:39:55,553 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name8 RENO 1
+2019-12-15 20:39:55,554 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name9 BMW 2
+2019-12-15 20:43:34,826 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] 9.4686758E8 2.11183078E9 1.97415424E9
+2019-12-15 20:43:34,831 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] z = 1.97415424E9
+2019-12-15 20:43:34,831 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] average sum = 1.67761754E9
+2019-12-15 20:43:34,832 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 185 
+2019-12-15 20:43:34,832 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 199 
+2019-12-15 20:43:34,832 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 281 
+2019-12-15 20:43:34,832 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 167 
+2019-12-15 20:43:34,832 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 129 
+2019-12-15 20:43:34,833 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -71 
+2019-12-15 20:43:34,833 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -48 
+2019-12-15 20:43:34,833 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 60 
+2019-12-15 20:43:34,833 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -283 
+2019-12-15 20:43:34,833 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -23 
+2019-12-15 20:43:34,834 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] minValue value = -283
+2019-12-15 20:43:34,834 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] maxValue value = 281
+2019-12-15 20:43:34,834 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 185 
+2019-12-15 20:43:34,834 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 199 
+2019-12-15 20:43:34,834 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -79523 
+2019-12-15 20:43:34,835 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 167 
+2019-12-15 20:43:34,835 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 129 
+2019-12-15 20:43:34,835 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -71 
+2019-12-15 20:43:34,836 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -48 
+2019-12-15 20:43:34,836 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 60 
+2019-12-15 20:43:34,836 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -283 
+2019-12-15 20:43:34,836 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -23 
+2019-12-15 20:43:34,837 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name0 MERCEDES 2
+2019-12-15 20:43:34,837 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name1 MERCEDES 2
+2019-12-15 20:43:34,837 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name2 BMW 3
+2019-12-15 20:43:34,838 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name3 BMW 2
+2019-12-15 20:43:34,838 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name4 BMW 2
+2019-12-15 20:43:34,838 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name5 MERCEDES 1
+2019-12-15 20:43:34,838 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name6 MERCEDES 3
+2019-12-15 20:43:34,838 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name7 MERCEDES 3
+2019-12-15 20:43:34,838 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name8 BMW 1
+2019-12-15 20:43:34,838 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] name9 MERCEDES 3
+2019-12-15 20:45:48,568 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] 1.9973984E9 1.30435123E9 -5.26921408E8
+2019-12-15 20:45:48,573 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] x + y = 1.9973984E91.30435123E9
+2019-12-15 20:45:48,574 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] average sum = 9.2494278E8
+2019-12-15 20:45:48,574 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -28 
+2019-12-15 20:45:48,574 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 254 
+2019-12-15 20:45:48,574 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 122 
+2019-12-15 20:45:48,575 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 107 
+2019-12-15 20:45:48,575 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -110 
+2019-12-15 20:45:48,575 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 220 
+2019-12-15 20:45:48,576 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -219 
+2019-12-15 20:45:48,576 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 212 
+2019-12-15 20:45:48,576 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 19 
+2019-12-15 20:45:48,576 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 166 
+2019-12-15 20:45:48,576 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] minValue value = -219
+2019-12-15 20:45:48,576 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] maxValue value = 254
+2019-12-15 20:45:48,577 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -28 
+2019-12-15 20:45:48,578 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -55626 
+2019-12-15 20:45:48,578 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 122 
+2019-12-15 20:45:48,578 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 107 
+2019-12-15 20:45:48,578 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -110 
+2019-12-15 20:45:48,578 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 220 
+2019-12-15 20:45:48,578 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -219 
+2019-12-15 20:45:48,579 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 212 
+2019-12-15 20:45:48,579 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 19 
+2019-12-15 20:45:48,579 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 166 
+2019-12-15 21:26:56,345 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] -1.93822938E9 2.59160912E8 1.86538061E9
+2019-12-15 21:26:56,351 DEBUG b.t.s.s.i.FirstHomeWorkServiceImpl [main] z = 1.86538061E9
+2019-12-15 21:26:56,351 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] average sum = 6.2104064E7
+2019-12-15 21:26:56,356 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 90 
+2019-12-15 21:26:56,357 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -90 
+2019-12-15 21:26:56,357 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 196 
+2019-12-15 21:26:56,358 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 110 
+2019-12-15 21:26:56,358 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 201 
+2019-12-15 21:26:56,358 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 172 
+2019-12-15 21:26:56,358 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -86 
+2019-12-15 21:26:56,358 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 227 
+2019-12-15 21:26:56,359 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 79 
+2019-12-15 21:26:56,359 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 241 
+2019-12-15 21:26:56,359 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] minValue value = -90
+2019-12-15 21:26:56,359 INFO b.t.s.s.i.FirstHomeWorkServiceImpl [main] maxValue value = 241
+2019-12-15 21:26:56,360 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 90 
+2019-12-15 21:26:56,360 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -90 
+2019-12-15 21:26:56,360 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 196 
+2019-12-15 21:26:56,361 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 110 
+2019-12-15 21:26:56,361 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 201 
+2019-12-15 21:26:56,362 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 172 
+2019-12-15 21:26:56,362 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -86 
+2019-12-15 21:26:56,363 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 227 
+2019-12-15 21:26:56,364 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] 79 
+2019-12-15 21:26:56,365 ERROR b.t.s.s.i.FirstHomeWorkServiceImpl [main] -21690 
